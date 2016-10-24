@@ -1,6 +1,6 @@
 baseurl = "https://example.org"
 languageCode = "en-us"
-title = "Material Docs"
+title = "Edmonds Commerce Docs"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
